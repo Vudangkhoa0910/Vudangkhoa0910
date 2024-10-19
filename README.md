@@ -64,11 +64,25 @@
 
 ---
 
-📊 Tech Proficiency:
-🚀 Programming Languages:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vudangkhoa0910&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"> </p>
-📈 Proficiency in Each Language:
-<p align="left"> <b>HTML/CSS</b> <br> <progress value="80" max="100"></progress> <b>80%</b> <br><br> <b>JavaScript</b> <br> <progress value="75" max="100"></progress> <b>75%</b> <br><br> <b>PHP</b> <br> <progress value="60" max="100"></progress> <b>60%</b> <br><br> <b>React</b> <br> <progress value="70" max="100"></progress> <b>70%</b> <br><br> <b>Node.js</b> <br> <progress value="65" max="100"></progress> <b>65%</b> <br><br> <b>Flutter/Dart</b> <br> <progress value="50" max="100"></progress> <b>50%</b> <br><br> <b>Python</b> <br> <progress value="85" max="100"></progress> <b>85%</b> <br><br> <b>C/C++</b> <br> <progress value="70" max="100"></progress> <b>70%</b> <br><br> <b>Kali Linux/Ubuntu</b> <br> <progress value="60" max="100"></progress> <b>60%</b> </p>
+### 📊 Tech Proficiency:
+#### Programming Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vudangkhoa0910&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400">
+</p>
+
+#### Proficiency in Each Language:
+text
+HTML/CSS: 80% ▰▰▰▰▰▰▰▰▱▱
+JavaScript: 75% ▰▰▰▰▰▰▰▱▱▱
+PHP: 60% ▰▰▰▰▰▱▱▱▱▱
+React: 70% ▰▰▰▰▰▰▱▱▱▱
+Node.js: 65% ▰▰▰▰▰▰▱▱▱▱
+Flutter/Dart: 50% ▰▰▰▰▱▱▱▱▱▱
+Python: 85% ▰▰▰▰▰▰▰▰▰▱
+C/C++: 70% ▰▰▰▰▰▰▱▱▱▱
+Kali Linux/Ubuntu: 60% ▰▰▰▰▰▱▱▱▱▱
+
+---
 
 #### 📊 GitHub Stats:
 <p align="center">
