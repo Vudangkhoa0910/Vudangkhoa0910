@@ -1,11 +1,19 @@
-# Let's create a README.md file with the provided content for the user.
-
-readme_content = """
-<h1 align="center">👨‍💻 Vũ Đăng Khoa | Web/App Developer | Security Enthusiast</h1>
+<h1 align="center">👨‍💻 Vũ Đăng Khoa | Web/App Developer | Security Enthusiast | Embedded Systems Explorer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36D9E0&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+%26+App+Development;Security+%26+Cyber+Enthusiast;Embedded+Systems+Explorer;Open+Source+Contributor">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36D9E0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+%26+App+Development;Security+%26+Cyber+Enthusiast;Embedded+Systems+Explorer;Open+Source+Contributor">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%2FApp-Development-%2300A86B?style=for-the-badge&logo=react&logoColor=white" alt="Web/App Development" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-%234B0082?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Security-Cyber-%23FF6347?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Security & Cyber" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vudangkhoa0910&theme=monokai&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophy" />
+</p>
+
 
 ---
 
