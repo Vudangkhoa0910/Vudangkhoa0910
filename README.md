@@ -71,7 +71,7 @@
 </p>
 
 #### Proficiency in Each Language:
-text
+```
 HTML/CSS: 80% ▰▰▰▰▰▰▰▰▱▱
 JavaScript: 75% ▰▰▰▰▰▰▰▱▱▱
 PHP: 60% ▰▰▰▰▰▱▱▱▱▱
@@ -81,7 +81,7 @@ Flutter/Dart: 50% ▰▰▰▰▱▱▱▱▱▱
 Python: 85% ▰▰▰▰▰▰▰▰▰▱
 C/C++: 70% ▰▰▰▰▰▰▱▱▱▱
 Kali Linux/Ubuntu: 60% ▰▰▰▰▰▱▱▱▱▱
-
+```
 ---
 
 #### 📊 GitHub Stats:
@@ -102,7 +102,7 @@ Kali Linux/Ubuntu: 60% ▰▰▰▰▰▱▱▱▱▱
 #### 💻 Contact Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/vudangkhoa0910/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vudangkhoa0910@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:khoabuit0910@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Vudangkhoa0910"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
