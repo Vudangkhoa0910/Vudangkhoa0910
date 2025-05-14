@@ -93,7 +93,7 @@ Kali Linux/Ubuntu: 60% ▰▰▰▰▰▱▱▱▱▱
 
 #### 💻 Contact Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/vudangkhoa0910/"><img src="www.linkedin.com/in/vu-dang-khoa-1486272b7"></a>
+  <a href="www.linkedin.com/in/vu-dang-khoa-1486272b7"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:khoabuit0910@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Vudangkhoa0910"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
