@@ -84,14 +84,6 @@ Kali Linux/Ubuntu: 60% ▰▰▰▰▰▱▱▱▱▱
 ```
 ---
 
-#### 📊 GitHub Stats:
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Vudangkhoa0910&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Vudangkhoa0910&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 #### 🚀 Projects & Contributions:
 - **Web/App Development**: Full-stack projects using React and Node.js, Firebase integration for real-time databases, OpenCV for face recognition projects.
 - **Security Projects**: Research and practical security tools (Kali Linux, Wireshark), developing secure web applications.
